@@ -1,0 +1,63 @@
+div{
+	background: url("../images/diamond_upholstery.png");
+	text-align: justify;
+}
+#random-btn{
+	font-size: 1.5em;
+}
+#search-btn{
+	font-size: 1.25em;
+}
+#browse-btn{
+	font-size: 1.125em;
+}
+#about-btn{
+	font-size: 1em;
+}
+#title{
+	margin: 1.5em auto;
+	text-align: center;
+	font-size: 1.4em;
+	margin-bottom: 1em;
+}
+h1{
+	text-shadow: 1.8px 1px 0.4px #bbb;
+}
+#anim{
+	margin: auto;
+	text-align: center;
+	width: 100%;
+}
+#menu{
+	margin: 1.5em auto;
+}
+#menu a{
+	margin: 2% auto;
+	text-align: center;
+	width: 45%;
+	max-width: 400px;
+}
+#cloud{
+	text-align: center;
+	padding: 3%;
+}
+.allThoughts4Search{	
+}
+#randomQuote{
+	margin: 5px;
+	padding-bottom: 10px;
+}
+#ok-btn{
+	margin: auto;
+	width: 2em;
+	display: block;
+}
+#photo{
+	float:right;
+	height: 13.19em;
+	width: 10em;
+	margin-top: auto;
+	margin-right: auto;
+	margin-left: 1em;
+	margin-bottom: 1em;
+}
